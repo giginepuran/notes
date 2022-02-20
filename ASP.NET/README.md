@@ -5,5 +5,5 @@
 ## [2/17](https://hackmd.io/@qFAJdSGFTWmS4XvD3xDFNQ/H1s6JioJq#)
 Keywords: `Delegate` `delegate` `=>` `IEnumerable` 
 
-## [2/18](https://hackmd.io/@qFAJdSGFTWmS4XvD3xDFNQ/HJ9DmVTJc)
-Keywords: `Generics`
+## [2/18 ~ 2/20](https://hackmd.io/@qFAJdSGFTWmS4XvD3xDFNQ/HJ9DmVTJc)
+Keywords: `Generics` `constraints`
