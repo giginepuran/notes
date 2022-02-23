@@ -7,3 +7,6 @@ Keywords: `Delegate` `delegate` `=>` `IEnumerable`
 
 ## [2/18 ~ 2/20](https://hackmd.io/@qFAJdSGFTWmS4XvD3xDFNQ/HJ9DmVTJc)
 Keywords: `Generics` `constraints`
+
+## [2/23](https://hackmd.io/@qFAJdSGFTWmS4XvD3xDFNQ/H1hRqVze9)
+Keywords: `overload` `covariant` `contravariance` `Generics` `constraints` `note`
